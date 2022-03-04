@@ -1,4 +1,4 @@
-### Hi there 👋
+### Old School IT Guy on a career break and transitioning to Cyber Security 🔭
 
 <!--
 **paulsmurthwaite/paulsmurthwaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
