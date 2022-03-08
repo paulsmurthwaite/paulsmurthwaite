@@ -3,17 +3,22 @@
 - 🔭 I’m currently working through The Open University [BSc(Hons) Cyber Security Degree](https://www.open.ac.uk/courses/computing-it/degrees/bsc-cyber-security-r60) programme, due to graduate 2024
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/paulsmurthwaite/)
 
-<!--
-**paulsmurthwaite/paulsmurthwaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Studying:
 
-Here are some ideas to get you started:
+- The Open University: TM255 Communication and Information Technologies
+- The Open University: TM257 Cisco Networking (CCNA) Part 1
+- The Odin Project
+- OpenLearn: Learn to Code for Data Analysis
+- OpenLearn: Visualisation - Visual Representations of Data and Information
+- OpenLearn: Information Security 
+- OpenLearn: Network Security
+- OpenLearn: An Introduction to Web Applications Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Completed Study:
+
+- OpenLearn: Gamified Intelligent Cyber Aptitude and Skills Training (GICAST) 
+- OpenLearn: Introduction to Cyber Security: Stay Safe Online
+- The Open University: MU123 Discovering Mathematics
+- The Open University: TM111 Introduction to Computing & Information Technology 1
+- The Open University: TM112 Introduction to Computing & Information Technology 2
+- The Open University: TM128 Microsoft Server Technologies
