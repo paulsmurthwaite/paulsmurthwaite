@@ -7,7 +7,7 @@
 
 - The Open University: TM255 Communication and Information Technologies
 - The Open University: TM257 Cisco Networking (CCNA) Part 1
-- The Odin Project
+- The Odin Project: Full Stack JavaScript
 - OpenLearn: Learn to Code for Data Analysis
 - OpenLearn: Visualisation - Visual Representations of Data and Information
 - OpenLearn: Information Security 
