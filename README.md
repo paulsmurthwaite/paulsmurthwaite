@@ -6,7 +6,7 @@
 ## Currently Studying:
 - The Open University: TM256 Cyber Security
 - The Open University: TT284 Web Technologies
-- THe Open University: TM129 Technologies in Practice
+- The Open University: TM129 Technologies in Practice
 - The Odin Project: Full Stack JavaScript
 - OpenLearn: Learn to Code for Data Analysis
 - OpenLearn: Visualisation - Visual Representations of Data and Information
