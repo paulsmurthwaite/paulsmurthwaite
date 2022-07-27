@@ -7,4 +7,4 @@
 - The Open University: TM256 Cyber Security
 - The Open University: TT284 Web Technologies
 - The Open University: TM129 Technologies in Practice
-- CCNA v7
+- Cisco Networking Academy: CCNA v7
