@@ -31,7 +31,7 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 
 ### 📂 Featured Projects
 * **[Cloud-Resume](https://github.com/paulsmurthwaite/cloud-resume)**: A live, professional portfolio hosted on **Azure Static Web Apps** with full CI/CD integration.
-* **[AZ-104-Labs](https://github.com/paulsmurthwaite/az104)**: A repository of scripts and ARM templates for managing scalable Azure infrastructure.
+* **[AZ-104-Labs](https://github.com/paulsmurthwaite/az-104)**: A repository of scripts and ARM templates for managing scalable Azure infrastructure.
 
 ---
 
