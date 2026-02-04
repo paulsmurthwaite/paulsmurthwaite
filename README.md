@@ -38,3 +38,9 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulsmurthwaite/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dciphr.co.uk)
+
+---
+
+### 📈 GitHub Activities
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsmurthwaite&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsmurthwaite&layout=compact&theme=transparent&hide_border=true)
