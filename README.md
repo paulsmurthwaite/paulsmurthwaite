@@ -42,5 +42,5 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 ---
 
 ### 📈 GitHub Activities
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsmurthwaite&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsmurthwaite&layout=compact&theme=transparent&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=paulsmurthwaite&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulsmurthwaite&layout=compact&theme=transparent&hide_border=true)
