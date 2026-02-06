@@ -33,7 +33,6 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 
 #### ☁️ Cloud & DevOps
 * **[Cloud-Resume](https://github.com/paulsmurthwaite/cloud-resume)**: A live, professional portfolio hosted on **Azure Static Web Apps** with full CI/CD integration.
-* **[AZ-104-Labs](https://github.com/paulsmurthwaite/az-104)**: A repository of scripts and ARM templates for managing scalable Azure infrastructure.
 
 #### 🛡️ Wireless Security Toolkit (BSc Development Project)
 * **[WSTT](https://github.com/paulsmurthwaite/wstt)**: Core analysis engine for automated wireless threat detection and network auditing.
