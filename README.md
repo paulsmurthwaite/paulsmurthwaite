@@ -34,7 +34,7 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 #### ☁️ Cloud & DevOps
 * **[Cloud-Resume](https://github.com/paulsmurthwaite/cloud-resume)**: A live, professional portfolio hosted on **Azure Static Web Apps** with full CI/CD integration.
 
-#### 🛡️ Wireless Security Toolkit (BSc Development Project)
+#### 🛡️ Wireless Security Toolkit (BSc (Hons) Cyber Security Final Year Project)
 * **[WSTT](https://github.com/paulsmurthwaite/wstt)**: Core analysis engine for automated wireless threat detection and network auditing.
 * **[WATT](https://github.com/paulsmurthwaite/watt)**: Repository of attack scenario configurations and scripts for controlled security testing.
 * **[WAPT](https://github.com/paulsmurthwaite/wapt)**: Modular toolkit for deploying simulated wireless infrastructure with an accessible UI.
