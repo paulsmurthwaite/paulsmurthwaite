@@ -16,7 +16,7 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 | **Cloud Platforms** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 | **Infrastructure/DevOps** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | **Scripting/Logic** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) |
-| **Legacy/Hybrid** | **Windows Server 2000-2022, Active Directory, Group Policy, Hyper-V, TCP/IP** |
+| **Legacy/Hybrid** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
