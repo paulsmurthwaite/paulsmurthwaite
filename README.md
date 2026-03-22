@@ -1,6 +1,6 @@
 # Paul Smurthwaite
 
-### Senior Infrastructure Engineer | Azure Cloud Engineer (Candidate) | Wintel & Hybrid Systems Specialist | BSc (Hons) Cyber Security | Veteran
+### Senior Infrastructure Engineer | Wintel & Hybrid Systems Specialist | BSc (Hons) Cyber Security | Veteran
 Technical leader with extensive experience implementing, securing, and optimising enterprise-scale infrastructure. Career progression from hands-on systems engineering and business ownership to directing 24/7 operations for mission-critical estates.
 
 Committed to ethical standards and accountability. Expert in ensuring technical delivery meets specification and budget requirements while maintaining operational speed. Proven track record in streamlining operations and resource allocation, automating workflows, and maintaining standards compliance.
