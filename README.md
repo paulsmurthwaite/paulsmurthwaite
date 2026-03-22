@@ -11,13 +11,13 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 
 ### 🛠️ Technical Stack
 
-| Category | Technologies |
+| Layer | Technologies & Tools |
 | :--- | :--- |
-| **Cloud Platforms** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-| **Infrastructure/DevOps** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| **Scripting/Logic** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) |
-| **Hybrid Systems** | ![Microsoft Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white) ![Microsoft Exchange](https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-FFB900?style=for-the-badge&logo=microsoft&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-%234285F4.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![DNS/DHCP](https://img.shields.io/badge/DNS/DHCP-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Cloud & IaaS** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Compute & Virtualisation** | ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Identity & OS** | ![Active Directory](https://img.shields.io/badge/Active%20Directory-FFB900?style=for-the-badge&logo=microsoft&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white) ![IBM AIX](https://img.shields.io/badge/IBM%20AIX-052FAD?style=for-the-badge&logo=ibm&logoColor=white) |
+| **Networking & Connectivity** | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-%234285F4.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Microsoft Exchange](https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white) |
+| **Automation & Scripting** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) |
 
 ---
 
