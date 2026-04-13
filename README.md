@@ -24,8 +24,6 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 
 ### 📊 Certification Roadmap
 - [X] **AZ-900:** Azure Fundamentals
-- [ ] **AZ-800:** Administering Windows Server Hybrid Core Infrastructure
-- [ ] **AZ-801:** Administering Windows Server Hybrid Advanced Services
 - [ ] **AZ-104:** Azure Administrator Associate
 - [ ] **AZ-305:** Designing Microsoft Azure Infrastructure Solutions
 
