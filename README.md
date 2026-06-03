@@ -24,8 +24,6 @@ Committed to ethical standards and accountability. Expert in ensuring technical 
 
 ### 📊 Certification Roadmap
 - [X] **AZ-900:** Azure Fundamentals
-- [ ] **AZ-104:** Azure Administrator Associate
-- [ ] **AZ-305:** Designing Microsoft Azure Infrastructure Solutions
 
 ---
 
